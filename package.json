@@ -1,0 +1,16 @@
+{
+	
+	"name":"Ejemplo-01",
+	"version":"0.0.1",
+	"private": true,
+	"scripts":{
+		"start":"node app"
+	},
+	"dependencies":{
+		"express":"*",
+		"jade":"*",
+		"mongoose":"*",
+		"body-parser":"*",
+		"method-override":"*"
+	}
+}
